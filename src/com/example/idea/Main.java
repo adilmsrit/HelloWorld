@@ -6,6 +6,6 @@ public class Main {
 
         // write your code here
 
-        System.out.println("Hello from IntelliJ IDEA!");
+        System.out.println("Hello from IntelliJasdas IDEA!");
     }
 }
